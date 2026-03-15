@@ -1,19 +1,36 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🎂 Birthday Card
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple birthday card webpage built with HTML and CSS.  
+The page features styled text, images, and GIFs to celebrate someone's birthday.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This project was created as part of the **Scrimba Fullstack Developer Path** while practicing CSS styling and layout positioning.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🛠 Technologies Used
+- HTML
+- CSS
 
-Happy Coding!
+## ✨ Features
+- Interactive birthday image that turns into a GIF when hovered
+- Styled birthday message
+- Simple visual styling using CSS
+- Layout structured using Flexbox
+
+## 🧠 What I Learned
+- `align-items`
+- `flex-direction` (`column` and `row`)
+- `:hover`
+- Applying gradients using `linear-gradient`
+- CSS grouping selectors with commas
+
+## 🧩 Challenges
+- Centering elements with CSS
+- Remembering `alt` attributes
+- Positioning and styling elements
+
+## ⚙️ The Process
+I created the HTML structure for the first `div` and text section, then reused it for the rest of the sections.
+
+I used CSS utility classes and applied **Flexbox with `flex-direction: column`** to structure the layout.
+
+## 🎥 Video Preview
+(Your video here)
