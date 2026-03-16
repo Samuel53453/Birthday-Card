@@ -6,8 +6,7 @@ The page features styled text, images, and GIFs to celebrate someone's birthday 
 This project was created as part of the **Scrimba Fullstack Developer Path**, focusing on practicing CSS styling and understanding layout positioning.
 
 ## 🎥 Video Preview
-
-*(Insert your video preview here)*
+https://github.com/user-attachments/assets/7461727d-e1b0-4f20-8836-1258054a01de
 
 ## 🛠 Technologies Used
 
